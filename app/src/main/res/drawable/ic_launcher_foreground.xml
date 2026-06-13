@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Cloud base outline -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M38,70 C34,70 30,66 30,62 C30,58 33,54 37,54 C36,52 36,50 36,48 C36,40 42,34 50,34 C54,34 57,36 60,39 C62,37 65,36 68,36 C74,36 78,40 78,46 C78,47 78,48 78,49 C81,50 84,53 84,57 C84,62 80,66 75,66 L38,66 Z" />
+        
+    <!-- Lightning Bolt / Energy Accent in Center -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M56,38 L44,53 L52,53 L48,68 L60,53 L52,53 Z" />
+
+    <!-- Isometric server lines -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M35,68 L73,68 L73,71 L35,71 Z" />
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M35,73 L73,73 L73,76 L35,76 Z" />
+</vector>

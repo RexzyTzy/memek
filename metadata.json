@@ -1,0 +1,6 @@
+{
+  "name": "Rex Hosting",
+  "description": "Rex Hosting is a high-performance marketplace application for GTA San Andreas Multiplayer (SA-MP) servers, developer services, and payment listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
